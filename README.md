@@ -16,7 +16,7 @@
 
 ## 示例
 
-<img src="./img/exp1.png" width="400px"> <img src="./img/exp2.png" width="400px"/>
+<img src="./img/exp1.PNG" width="500px"> <img src="./img/exp2.PNG" width="500px"/>
 
 
 
